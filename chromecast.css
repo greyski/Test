@@ -4,8 +4,9 @@
   height: 100%;
   position: fixed;
   background-color: rgb(255, 255, 255);
-  opacity : 0.2;
-  background-image: url(https://s.pinimg.com/webapp/style/images/bg_multi_case_grid_no_text_white_55_percent-2000ab22.jpg);
+  background:
+    linear-gradient(rgba(255, 255, 255, 0.45), rgba(255, 255, 255, 0.45)),
+    url(https://s.pinimg.com/webapp/style/images/bg_multi_case_grid_no_text_white_55_percent-2000ab22.jpg);
 }
 
 .logo {
@@ -22,5 +23,6 @@
 
 .watermark {
   background-image: url(http://www.free-icons-download.net/images/pinterest-logo-icon-63868.png);
+  background-size: 57px 57px
   opacity : 0.2;
 }
