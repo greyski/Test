@@ -1,0 +1,28 @@
+.background {
+  background-position: 0px -700px;
+  background-size: cover;
+  padding-bottom: 300px;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  background-color: rgb(0, 0, 0);
+  background-image: url(https://s.pinimg.com/webapp/style/images/bg_multi_case_grid_no_text_white_55_percent-2000ab22.jpg);
+}
+
+.logo {
+  background-image: url(https://1kkihmvglky39oxo03l2hnz9-wpengine.netdna-ssl.com/wp-content/uploads/2013/04/pinterest_badge_red-712x712.png);
+}
+
+.progressBar {
+  background-color: rgb(187, 187, 187);
+  color: rgb(150, 20, 25)
+}
+
+.splash {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pinterest_Logo.svg/2000px-Pinterest_Logo.svg.png);
+}
+
+.watermark {
+  background-image: url(http://pngimages.net/sites/default/files/pinterest-png-image-65976.png);
+  background-size: 57px 57px;
+}
